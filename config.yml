@@ -7,6 +7,7 @@
 ## you can also set detailed dir, such as BasicSkill/css
 menu: 
   - Introduction
+  - 开发文档
 ## set init open menu keys
 # menuOpenKeys:
 
